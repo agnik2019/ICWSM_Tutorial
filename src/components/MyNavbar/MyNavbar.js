@@ -43,11 +43,11 @@ const MyNavbar = () => {
             </NavItem> */}
      
    
-            <NavItem>
+            {/* <NavItem>
               <NavLink href="#contact" className=" rounded">
                 Contact
               </NavLink>
-            </NavItem>
+            </NavItem> */}
 
           </Nav>
         </Collapse>
