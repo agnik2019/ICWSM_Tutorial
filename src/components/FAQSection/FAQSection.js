@@ -278,9 +278,9 @@ const FAQSection = () => {
           <p className="text-grey-20">
             Answers below include responses collected from multiple GSU students.
           </p>
-          <Button className="btn bg-white border-white-95 p-3 mt-3 text-black">
+          {/* <Button className="btn bg-white border-white-95 p-3 mt-3 text-black">
             See All FAQ’s
-          </Button>
+          </Button> */}
         </Col>
 
         <Col sm={1}></Col>

@@ -27,10 +27,10 @@ const Footer = () => {
               <EmailIcon />
               asaha8@student.gsu.edu
             </div>
-            <div className="icon-link">
+            {/* <div className="icon-link">
               <PhoneIcon />
               4804298367
-            </div>
+            </div> */}
             <div className="icon-link">
               <LocationIcon />
               Atlanta, Georgia, USA
@@ -95,7 +95,7 @@ const Footer = () => {
       </Container>
       <hr className="container" />
       <p className="text-center px-3 py-4 text-grey-40 m-0">
-        &copy; 2023 Skillbridge. All rights reserved.
+        &copy; 2026 BGSA. All rights reserved.
       </p>
     </footer>
   );

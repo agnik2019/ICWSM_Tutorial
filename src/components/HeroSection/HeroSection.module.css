@@ -19,3 +19,9 @@
     font-weight: 600;
   }
 }
+
+.gsuLogo {
+  width: clamp(90px, 18vw, 150px);
+  height: auto;
+  margin-bottom: 1rem;
+}

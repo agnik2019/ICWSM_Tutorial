@@ -1,11 +1,7 @@
-// Bootstrap Components
-import { Button } from "reactstrap";
-
-// Assets
 import { ReactComponent as Icon } from "../../assets/icons/Icon (1).svg";
 import { ReactComponent as TopIcon } from "../../assets/icons/Abstract Line.svg";
+import GsuLogo from "../../assets/img/GSU_1.svg";
 
-// CSS File
 import classes from "./HeroSection.module.css";
 
 const HeroSection = () => {
@@ -18,7 +14,7 @@ const HeroSection = () => {
           <span className="badge">
             <Icon />
           </span>
-          <p className={`${classes["hero_title"]} my-2 p-2`}>
+          <p className={`${classes.hero_title} my-2 p-2`}>
             <span>Bangladesh</span> Graduate Student Association of <span>GSU</span>
           </p>
         </div>
@@ -28,7 +24,12 @@ const HeroSection = () => {
           className="position-absolute top-0 start-0 translate-middle"
         />
       </div>
-      <h2 className="m-2">Georgia State University</h2>
+
+      <img
+        src={GsuLogo}
+        alt="Georgia State University logo"
+        className={classes.gsuLogo}
+      />
     </section>
   );
 };

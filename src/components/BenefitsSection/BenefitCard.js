@@ -13,12 +13,12 @@ const BenefitCard = (props) => {
           </h1>
           <h5 className="card-text text-grey-20 mb-3">{props.title}</h5>
           <p className="card-text text-grey-30">{props.description}</p>
-          <div
+          {/* <div
             className="rounded-3 ms-auto d-flex justify-content-center align-items-center mt-auto border-white-95 bg-white-99"
             style={{ width: "50px", height: "50px" }}
           >
             <img src={orangeArrow} alt="" />
-          </div>
+          </div> */}
         </CardBody>
       </Card>
     </Col>
