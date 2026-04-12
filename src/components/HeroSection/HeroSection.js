@@ -19,7 +19,7 @@ const HeroSection = () => {
             <Icon />
           </span>
           <p className={`${classes["hero_title"]} my-2 p-2`}>
-            <span>Knowledge</span> Infused Multimodal Learning
+            <span>Bangladesh</span> Graduate Student Association of <span>GSU</span>
           </p>
         </div>
         <TopIcon
@@ -28,7 +28,7 @@ const HeroSection = () => {
           className="position-absolute top-0 start-0 translate-middle"
         />
       </div>
-      <h2 className="m-2">Trilok Padhi, Agnik Saha, Ugur Kursuncu</h2>
+      <h2 className="m-2">Georgia State University</h2>
     </section>
   );
 };

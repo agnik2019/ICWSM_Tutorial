@@ -12,7 +12,6 @@ const HomePage = () => {
       <MyNavbar />
       <HeroSection />
       <BenefitsSection />
-      <TestimonialsSection />
       <FAQSection />
       <Footer />
     </>
