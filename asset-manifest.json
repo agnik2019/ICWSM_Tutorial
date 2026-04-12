@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/BSA_GSU/static/css/main.4b5102c3.css",
-    "main.js": "/BSA_GSU/static/js/main.39caebd4.js",
+    "main.css": "/BSA_GSU/static/css/main.12b1ee69.css",
+    "main.js": "/BSA_GSU/static/js/main.22668f60.js",
     "static/js/453.a935cedd.chunk.js": "/BSA_GSU/static/js/453.a935cedd.chunk.js",
     "static/media/testimonials1.png": "/BSA_GSU/static/media/testimonials1.893d04dc80a0f378147d.png",
     "static/media/testimonials2.png": "/BSA_GSU/static/media/testimonials2.e88f1569eb82de4a76d5.png",
     "static/media/testimonials4.png": "/BSA_GSU/static/media/testimonials4.34fb4a879f9d3df73e5e.png",
+    "static/media/GSU_1.svg": "/BSA_GSU/static/media/GSU_1.8c81fb8a10ab5ca835f47f2687a0f2b1.svg",
     "static/media/twitter.svg": "/BSA_GSU/static/media/twitter.cf49b6414e6d9db8f4c7a1627e844ca6.svg",
     "static/media/Abstract Line.svg": "/BSA_GSU/static/media/Abstract Line.4ff7634af1791ba78ba83b4a8b28f82f.svg",
     "index.html": "/BSA_GSU/index.html",
@@ -21,12 +22,12 @@
     "static/media/close.svg": "/BSA_GSU/static/media/close.d0c6eaa56323e1654a18.svg",
     "static/media/arrow_right.svg": "/BSA_GSU/static/media/arrow_right.9c8caf0c7d05855a771090c9b6652067.svg",
     "static/media/plus.svg": "/BSA_GSU/static/media/plus.0f122ef6d3c27c93dab4.svg",
-    "main.4b5102c3.css.map": "/BSA_GSU/static/css/main.4b5102c3.css.map",
-    "main.39caebd4.js.map": "/BSA_GSU/static/js/main.39caebd4.js.map",
+    "main.12b1ee69.css.map": "/BSA_GSU/static/css/main.12b1ee69.css.map",
+    "main.22668f60.js.map": "/BSA_GSU/static/js/main.22668f60.js.map",
     "453.a935cedd.chunk.js.map": "/BSA_GSU/static/js/453.a935cedd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b5102c3.css",
-    "static/js/main.39caebd4.js"
+    "static/css/main.12b1ee69.css",
+    "static/js/main.22668f60.js"
   ]
 }
